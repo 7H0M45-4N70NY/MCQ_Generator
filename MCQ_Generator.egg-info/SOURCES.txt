@@ -1,0 +1,6 @@
+setup.py
+MCQ_Generator.egg-info/PKG-INFO
+MCQ_Generator.egg-info/SOURCES.txt
+MCQ_Generator.egg-info/dependency_links.txt
+MCQ_Generator.egg-info/requires.txt
+MCQ_Generator.egg-info/top_level.txt
