@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+"In supervised learning, the training data is labeled. What is the other name of labeled data?",a: unlabeled data | b: labeled data | c: training data | d: testing data,b
+"In supervised learning, the model is trained using labeled data. What is the goal of the model?",a: to learn the mapping function | b: to predict the output | c: to find the correct answer | d: to find the correct output,a
+Supervised learning is used for various applications. Which of the following is not an application of supervised learning?,a: Risk assessment | b: Image classification | c: Fraud detection | d: Natural Language Processing,d
+Supervised learning is a type of machine learning. What is the other type of machine learning?,a: Unsupervised learning | b: Reinforcement learning | c: Deep learning | d: All of the above,d
+"In supervised learning, the model is trained using labeled data. What is the labeled data used for?",a: to evaluate the model | b: to train the model | c: to test the model | d: to validate the model,b
